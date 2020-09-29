@@ -1,0 +1,14 @@
+{
+    "Campaign": "Testing kerberoast",
+    "Datetime": "2020-07-30 10:00:00",
+    "Techniques": {
+        "1": {
+		    "Technique": "T1558-003",
+		    "Parameters": [
+			    "LDAP://DC=interbanco,DC=com,DC=py",
+			    "interbanco.com.py\\LUCASD",
+			    "NnvfjtfA09"
+		    ]
+		}
+    }
+}
