@@ -1,1 +1,0 @@
-https://github.com/BloodHoundAD/BloodHound/blob/master/Ingestors/SharpHound.ps1
