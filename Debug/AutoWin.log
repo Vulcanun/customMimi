@@ -1,6 +1,0 @@
-﻿2020-09-29 09:01:52.904 [INFO]    Defining execution method.
-2020-09-29 09:01:52.905 [INFO]    Attack flow execution method selected, initiating.
-2020-09-29 09:01:52.997 [INFO]    The flow file received has the following setting: Campaign: Testing golden| Datetime:2020-07-30 10:00:00
-2020-09-29 09:01:52.998 [INFO]    Starting the execution process for techinque T1558-001.
-2020-09-29 09:01:53.138 [INFO]    Injecting technique T1558-001.
-2020-09-29 09:01:54.617 [INFO]    Executed technique with success.
